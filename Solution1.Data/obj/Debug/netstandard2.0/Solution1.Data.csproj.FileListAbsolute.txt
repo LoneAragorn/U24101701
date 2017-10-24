@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Solution1\Solution1.Data\bin\Debug\netstandard2.0\Solution1.Data.deps.json
+C:\Users\Admin\source\repos\Solution1\Solution1.Data\bin\Debug\netstandard2.0\Solution1.Data.dll
+C:\Users\Admin\source\repos\Solution1\Solution1.Data\bin\Debug\netstandard2.0\Solution1.Data.pdb
+C:\Users\Admin\source\repos\Solution1\Solution1.Data\obj\Debug\netstandard2.0\Solution1.Data.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Solution1\Solution1.Data\obj\Debug\netstandard2.0\Solution1.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\Solution1.Data\obj\Debug\netstandard2.0\Solution1.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\Solution1.Data\obj\Debug\netstandard2.0\Solution1.Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\Solution1.Data\obj\Debug\netstandard2.0\Solution1.Data.dll
+C:\Users\Admin\source\repos\Solution1\Solution1.Data\obj\Debug\netstandard2.0\Solution1.Data.pdb

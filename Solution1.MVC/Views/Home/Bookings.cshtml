@@ -1,0 +1,14 @@
+﻿@model List<Solution1.Data.Booking> 
+@{
+    ViewBag.Title = "Bookings";
+}
+
+<h2>Bookings</h2>
+<ul>
+    @foreach(var item in Model)
+    {
+        <li>@item.EventName @item.Place @item.Date @item.Name</li>
+    }
+</ul>
+
+@Html.ActionLink("Lägg till ett event", "NewBooking")
